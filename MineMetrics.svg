@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 286 327.46">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 6px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke: #4db848;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        fill: #299a2c;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke-width: 18px;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 7px;
+      }
+
+      .cls-4 {
+        fill: #2b2b2b;
+        stroke: #000;
+      }
+
+      .cls-5 {
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_5" data-name="Ebene 5">
+    <polygon class="cls-4" points="9 86.36 9 241.09 143 318.46 277 241.09 277 86.36 143 9 9 86.36"/>
+  </g>
+  <g id="Ebene_1" data-name="Ebene 1">
+    <polygon class="cls-6" points="9 86.36 9 241.09 143 318.46 277 241.09 277 86.36 143 9 9 86.36"/>
+  </g>
+  <g id="Ebene_7" data-name="Ebene 7">
+    <polyline class="cls-2" points="194.63 137.11 234.79 136.52 232.83 173.68"/>
+  </g>
+  <g id="Ebene_6" data-name="Ebene 6">
+    <polyline class="cls-2" points="15 235.73 77 180.73 143 215.73 220.4 149.73"/>
+  </g>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <polygon class="cls-5" points="139.43 64.61 139.43 91.27 162.51 104.59 185.59 91.27 185.59 64.61 162.51 51.29 139.43 64.61"/>
+    <polygon class="cls-3" points="56.49 115.73 56.49 138.73 77.41 150.23 98.34 138.73 98.34 115.73 77.41 104.23 56.49 115.73"/>
+    <polygon class="cls-1" points="182.31 225.98 182.31 245.48 199.4 255.23 216.5 245.48 216.5 225.98 199.4 216.23 182.31 225.98"/>
+  </g>
+</svg>
